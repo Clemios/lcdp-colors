@@ -10,17 +10,17 @@ function removeAllChild(node){
 }
 
 var colors = {
-    "color1" : ["Rose Jungle","#ef4850"],
-    "color2" : ["Rose roger","#ff6c73"],
-    "color3" : ["Rose lamute","#f8bcbf"],
+    "color1" : ["Vert LCDP","#28d689"],
+    // "color2" : ["Rose roger","#ff6c73"],
+    // "color3" : ["Rose lamute","#f8bcbf"],
 
-    "color4" : ["Bleu Jungle","#204762"],
-    "color5" : ["Bleu roger","#397395"],
-    "color6" : ["Bleu lamute","#bae1fd"],
+    "color4" : ["Rouge Lab","#ff6158"],
+    // "color5" : ["Bleu roger","#397395"],
+    // "color6" : ["Bleu lamute","#bae1fd"],
 
-    "color7" : ["Jaune Jungle","#fad170"],
-    "color8" : ["Jaune roger","#f9e07d"],
-    "colo19" : ["Jaune lamute","#f9edb0"],
+    "color7" : ["Bleu Aide","#545fc7"],
+    // "color8" : ["Jaune roger","#f9e07d"],
+    // "colo19" : ["Jaune lamute","#f9edb0"],
 
     "color10" : ["Vert Jungle","#35945d"],
     "color11" : ["Vert roger","#63c48c"],

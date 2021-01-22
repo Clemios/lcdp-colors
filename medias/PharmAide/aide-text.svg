@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="50px" viewBox="0 0 112 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Atoms / Logos / Pharmaide</title>
+    <defs>
+        <linearGradient x1="-2.63592108%" y1="53.7652666%" x2="50%" y2="46.2347334%" id="linearGradient-1">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#545FC7" stop-opacity="0" offset="18.3361229%"></stop>
+            <stop stop-color="#545FC7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="99.9999196%" y1="-3.60548449%" x2="100%" y2="65.1394334%" id="linearGradient-2">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#545FC7" stop-opacity="0" offset="18.3361229%"></stop>
+            <stop stop-color="#545FC7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="68.4718032%" y1="100%" x2="35.2934813%" y2="67.6949352%" id="linearGradient-3">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#545FC7" stop-opacity="0" offset="18.3361229%"></stop>
+            <stop stop-color="#545FC7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Atoms-/-Logos-/-Pharmaide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Pharm" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="21.12" fill="#1E266D">
+            <tspan x="49" y="17">Pharm</tspan>
+        </text>
+        <text id="Aide" font-family="AvertaDemoPE-ExtraboldItalic, Averta Demo PE" font-size="25" font-style="italic" font-weight="600" line-spacing="21.12" fill="#545FC7">
+            <tspan x="47" y="42">Aide</tspan>
+        </text>
+        <g id="Group" transform="translate(97.000000, 34.000000)">
+            <circle id="Oval" stroke="#545FC7" stroke-width="0.5" cx="3" cy="3" r="3"></circle>
+            <path d="M1.6,4.6 L1.6,1.3 L3.00238745,1.3 C3.35504951,1.3 3.61128842,1.32963818 3.77111187,1.38891542 C3.93093531,1.44819266 4.05886719,1.55361452 4.15491132,1.70518417 C4.25095546,1.85675383 4.29897681,2.03008088 4.29897681,2.22517053 C4.29897681,2.47278432 4.22619445,2.67725022 4.08062756,2.83857435 C3.93506066,2.99989849 3.71746393,3.10156868 3.42783083,3.14358799 C3.57189704,3.22762661 3.69082491,3.31991764 3.78461801,3.42046385 C3.87841111,3.52101005 4.00484232,3.69958944 4.16391542,3.95620737 L4.56684857,4.6 L3.76998636,4.6 L3.28826739,3.8819236 C3.11718878,3.62530567 3.00013674,3.46360879 2.93710778,3.3968281 C2.87407881,3.33004742 2.80729912,3.28427707 2.73676671,3.25951569 C2.6662343,3.23475431 2.5544346,3.22237381 2.40136426,3.22237381 L2.26630286,3.22237381 L2.26630286,4.6 L1.6,4.6 Z M2.26630286,2.69563438 L2.75927694,2.69563438 C3.07892384,2.69563438 3.27851256,2.68212838 3.35804911,2.65511596 C3.43758566,2.62810355 3.49986335,2.58158287 3.54488404,2.51555252 C3.58990473,2.44952218 3.61241473,2.36698549 3.61241473,2.26793997 C3.61241473,2.15688894 3.58277656,2.06722408 3.52349932,1.9989427 C3.46422208,1.93066132 3.38055989,1.88751714 3.27251023,1.86950887 C3.21848541,1.86200542 3.05641336,1.85825375 2.78628922,1.85825375 L2.26630286,1.85825375 L2.26630286,2.69563438 Z" id="R" fill="#545FC7" fill-rule="nonzero"></path>
+        </g>
+        <g id="Atoms-/-Logos-/-Icon-/-Pharmaide" transform="translate(0.000000, 3.000000)" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(22.636364, 22.727273) rotate(-270.000000) translate(-22.636364, -22.727273) translate(2.636364, 1.727273)">
+                <g id="Group-6-Copy" transform="translate(-0.000000, -0.000000)" stroke="url(#linearGradient-1)" stroke-width="2.72727273">
+                    <path d="M0.475313646,13.7833187 L12.214635,7.00561832 C12.9520637,6.57986365 13.8606134,6.57986365 14.5980421,7.00561832 L14.5980421,7.00561832 L26.3373634,13.7833187" id="Path" transform="translate(13.406339, 10.234810) rotate(-30.000000) translate(-13.406339, -10.234810) "></path>
+                </g>
+                <path d="M34.9087922,9.76652864 L34.9087922,23.3219293 C34.9087922,24.1734387 34.4545174,24.9602657 33.7170887,25.3860204 L21.9777673,32.1637208" id="Path" stroke="url(#linearGradient-2)" stroke-width="2.72727273" transform="translate(28.443280, 20.965125) rotate(-30.000000) translate(-28.443280, -20.965125) "></path>
+                <path d="M21.6461051,40.159235 L9.90678372,33.3815347 C9.169355,32.95578 8.71508018,32.1689529 8.71508018,31.3174436 L8.71508018,17.7620429" id="Path" stroke="url(#linearGradient-3)" stroke-width="2.72727273" transform="translate(15.180593, 28.960639) rotate(-30.000000) translate(-15.180593, -28.960639) "></path>
+            </g>
+            <circle id="Oval" stroke="#545FC7" stroke-width="2.72727273" cx="22.5" cy="22.5" r="3.40909091"></circle>
+        </g>
+    </g>
+</svg>

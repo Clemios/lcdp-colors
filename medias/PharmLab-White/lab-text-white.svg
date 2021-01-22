@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="50px" viewBox="0 0 147 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Atoms / Logos / Pharmlab White</title>
+    <defs>
+        <linearGradient x1="58.2591541%" y1="91.5456231%" x2="58.2591541%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="58.2591541%" y1="92.2272009%" x2="58.2591541%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0.73902027%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="68.3939045%" y1="-39.7819005%" x2="68.3939045%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="22.6318088%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Atoms-/-Logos-/-Pharmlab-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Pharm" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="21.12" fill="#FFFFFF">
+            <tspan x="49" y="17">Pharm</tspan>
+        </text>
+        <text id="Lab" font-family="AvertaDemoPE-ExtraboldItalic, Averta Demo PE" font-size="25" font-style="italic" font-weight="600" line-spacing="21.12" fill="#FFFFFF">
+            <tspan x="47" y="43">Lab</tspan>
+        </text>
+        <g id="Group" transform="translate(90.000000, 34.000000)">
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="0.5" cx="3" cy="3" r="3"></circle>
+            <path d="M1.6,4.6 L1.6,1.3 L3.00238745,1.3 C3.35504951,1.3 3.61128842,1.32963818 3.77111187,1.38891542 C3.93093531,1.44819266 4.05886719,1.55361452 4.15491132,1.70518417 C4.25095546,1.85675383 4.29897681,2.03008088 4.29897681,2.22517053 C4.29897681,2.47278432 4.22619445,2.67725022 4.08062756,2.83857435 C3.93506066,2.99989849 3.71746393,3.10156868 3.42783083,3.14358799 C3.57189704,3.22762661 3.69082491,3.31991764 3.78461801,3.42046385 C3.87841111,3.52101005 4.00484232,3.69958944 4.16391542,3.95620737 L4.56684857,4.6 L3.76998636,4.6 L3.28826739,3.8819236 C3.11718878,3.62530567 3.00013674,3.46360879 2.93710778,3.3968281 C2.87407881,3.33004742 2.80729912,3.28427707 2.73676671,3.25951569 C2.6662343,3.23475431 2.5544346,3.22237381 2.40136426,3.22237381 L2.26630286,3.22237381 L2.26630286,4.6 L1.6,4.6 Z M2.26630286,2.69563438 L2.75927694,2.69563438 C3.07892384,2.69563438 3.27851256,2.68212838 3.35804911,2.65511596 C3.43758566,2.62810355 3.49986335,2.58158287 3.54488404,2.51555252 C3.58990473,2.44952218 3.61241473,2.36698549 3.61241473,2.26793997 C3.61241473,2.15688894 3.58277656,2.06722408 3.52349932,1.9989427 C3.46422208,1.93066132 3.38055989,1.88751714 3.27251023,1.86950887 C3.21848541,1.86200542 3.05641336,1.85825375 2.78628922,1.85825375 L2.26630286,1.85825375 L2.26630286,2.69563438 Z" id="R" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+        <g id="Atoms-/-Logos-/-Icon-/-Pharmlab-White" transform="translate(0.000000, 3.000000)">
+            <g id="Group-4" transform="translate(10.909091, 6.818182)">
+                <g id="Group-3" transform="translate(0.000000, 1.227273)">
+                    <circle id="Oval" fill="url(#linearGradient-1)" cx="8.42914324" cy="23.6618182" r="1.62"></circle>
+                    <circle id="Oval-Copy-3" fill="url(#linearGradient-2)" cx="13.2891432" cy="18.9436364" r="1.08"></circle>
+                    <circle id="Oval-Copy-4" fill="url(#linearGradient-2)" cx="15.4491432" cy="24.2018182" r="1.08"></circle>
+                    <path d="M15.8909614,0.59350074 L15.8909614,10.0636364 L22.8768041,23.7521621 C23.9927315,25.612041 23.3896396,28.0244085 21.5297607,29.1403359 C20.919402,29.5065511 20.22099,29.7 19.5091956,29.7 L3.92727273,29.7 C1.75829989,29.7 0,27.9417001 0,25.7727273 C0,25.0609329 0.193448945,24.3625208 0.559664146,23.7521621 L7.54550688,10.0636364 L7.54550688,0.59350074" id="Path" stroke="url(#linearGradient-3)" stroke-width="2.72727273" stroke-linejoin="round"></path>
+                    <g id="Group-11" transform="translate(6.809143, 19.881818)"></g>
+                </g>
+                <line x1="6.13636364" y1="0.613636364" x2="17.1818182" y2="0.613636364" id="Line-6" stroke="#FFFFFF" stroke-width="2.72727273" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

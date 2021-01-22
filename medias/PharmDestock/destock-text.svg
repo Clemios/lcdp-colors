@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="50px" viewBox="0 0 147 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Atoms / Logos / Pharmdestock</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.156863 0 0 0 0 0.831373 0 0 0 0 0.533333 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <linearGradient x1="66.8110413%" y1="0%" x2="33.1889587%" y2="92.6060289%" id="linearGradient-2">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#28D488" stop-opacity="0" offset="42.7527797%"></stop>
+            <stop stop-color="#28D488" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="100%" cy="100%" fx="100%" fy="100%" r="200.790824%" gradientTransform="translate(1.000000,1.000000),scale(1.000000,0.574324),rotate(119.869799),translate(-1.000000,-1.000000)" id="radialGradient-3">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#28D488" stop-opacity="0" offset="42.7527797%"></stop>
+            <stop stop-color="#28D488" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="66.4924215%" y1="100%" x2="35.1799862%" y2="8.49139664%" id="linearGradient-4">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#28D488" stop-opacity="0" offset="42.7527797%"></stop>
+            <stop stop-color="#28D488" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="92.9818556%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#28D488" stop-opacity="0" offset="42.7527797%"></stop>
+            <stop stop-color="#28D488" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Atoms-/-Logos-/-Pharmdestock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Pharm" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="21.12" fill="#1E266D">
+            <tspan x="49" y="17">Pharm</tspan>
+        </text>
+        <text id="Destock" font-family="AvertaDemoPE-ExtraboldItalic, Averta Demo PE" font-size="25" font-style="italic" font-weight="600" line-spacing="21.12" fill="#28D488">
+            <tspan x="47" y="41">Destock</tspan>
+        </text>
+        <g id="Group" transform="translate(135.000000, 34.000000)">
+            <circle id="Oval" stroke="#28D488" stroke-width="0.5" cx="3" cy="3" r="3"></circle>
+            <path d="M1.6,4.6 L1.6,1.3 L3.00238745,1.3 C3.35504951,1.3 3.61128842,1.32963818 3.77111187,1.38891542 C3.93093531,1.44819266 4.05886719,1.55361452 4.15491132,1.70518417 C4.25095546,1.85675383 4.29897681,2.03008088 4.29897681,2.22517053 C4.29897681,2.47278432 4.22619445,2.67725022 4.08062756,2.83857435 C3.93506066,2.99989849 3.71746393,3.10156868 3.42783083,3.14358799 C3.57189704,3.22762661 3.69082491,3.31991764 3.78461801,3.42046385 C3.87841111,3.52101005 4.00484232,3.69958944 4.16391542,3.95620737 L4.56684857,4.6 L3.76998636,4.6 L3.28826739,3.8819236 C3.11718878,3.62530567 3.00013674,3.46360879 2.93710778,3.3968281 C2.87407881,3.33004742 2.80729912,3.28427707 2.73676671,3.25951569 C2.6662343,3.23475431 2.5544346,3.22237381 2.40136426,3.22237381 L2.26630286,3.22237381 L2.26630286,4.6 L1.6,4.6 Z M2.26630286,2.69563438 L2.75927694,2.69563438 C3.07892384,2.69563438 3.27851256,2.68212838 3.35804911,2.65511596 C3.43758566,2.62810355 3.49986335,2.58158287 3.54488404,2.51555252 C3.58990473,2.44952218 3.61241473,2.36698549 3.61241473,2.26793997 C3.61241473,2.15688894 3.58277656,2.06722408 3.52349932,1.9989427 C3.46422208,1.93066132 3.38055989,1.88751714 3.27251023,1.86950887 C3.21848541,1.86200542 3.05641336,1.85825375 2.78628922,1.85825375 L2.26630286,1.85825375 L2.26630286,2.69563438 Z" id="R" fill="#28D488" fill-rule="nonzero"></path>
+        </g>
+        <g filter="url(#filter-1)" fill="#28D488" id="Atoms-/-Logos-/-Icon-/-Pharmstock" stroke-linejoin="round">
+            <g transform="translate(0.000000, 3.000000)">
+                <g id="Group-6-Copy" fill="none">
+                    <path d="M23.5204646,6.7092693 L35.259786,13.4869696 C35.9972147,13.9127243 36.4514895,14.6995514 36.4514895,15.5510607 L36.4514895,29.1064614 C36.4514895,29.9579707 35.9972147,30.7447978 35.259786,31.1705525 L23.5204646,37.9482528 C22.7830359,38.3740075 21.8744862,38.3740075 21.1370575,37.9482528 L9.39773617,31.1705525 C8.66030745,30.7447978 8.20603263,29.9579707 8.20603263,29.1064614 L8.20603263,15.5510607 C8.20603263,14.6995514 8.66030745,13.9127243 9.39773617,13.4869696 L21.1370575,6.7092693 C21.8744862,6.28351463 22.7830359,6.28351463 23.5204646,6.7092693 Z" id="Polygon" stroke="#28D488" stroke-width="2.72727273" transform="translate(22.328761, 22.328761) rotate(-30.000000) translate(-22.328761, -22.328761) "></path>
+                    <line x1="30.2943584" y1="8.46736726" x2="22.3914823" y2="22.3914823" id="Line-2" stroke="#28D488" stroke-width="2.72727273"></line>
+                    <line x1="14.3945243" y1="36.1830142" x2="22.3914823" y2="22.3914823" id="Line-2" stroke="url(#linearGradient-2)" stroke-width="2.72727273"></line>
+                    <line x1="30.2943584" y1="36.1830142" x2="22.3914823" y2="22.3914823" id="Line-2" stroke="#28D488" stroke-width="2.72727273"></line>
+                    <line x1="14.3945243" y1="8.46736726" x2="22.3914823" y2="22.3914823" id="Line-2" stroke="url(#radialGradient-3)" stroke-width="2.38636364"></line>
+                    <line x1="14.3945243" y1="8.46736726" x2="22.3914823" y2="22.3914823" id="Line-2" stroke="url(#linearGradient-4)" stroke-width="2.72727273"></line>
+                    <line x1="38.2097622" y1="22.3287611" x2="22.3914823" y2="22.3914823" id="Line-2" stroke="url(#linearGradient-5)" stroke-width="2.72727273"></line>
+                    <line x1="6.39756637" y1="22.3984513" x2="22.3914823" y2="22.3984513" id="Line-2" stroke="#28D488" stroke-width="2.72727273"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

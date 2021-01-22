@@ -15,7 +15,7 @@ var colors = {
     "color3" : ["Bleu Aide","#545fc7"],
     "color4" : ["Jaune Club","#ffc857"],
     "color5" : ["Bleu Cobalt","#1a2676"],
-    "color5" : ["Dark-2","#666666"],
+    "color6" : ["Dark-2","#666666"],
 };
 
 

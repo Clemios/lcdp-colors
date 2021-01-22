@@ -11,26 +11,9 @@ function removeAllChild(node){
 
 var colors = {
     "color1" : ["Vert Destock","#28d689"],
-    // "color2" : ["Rose roger","#ff6c73"],
-    // "color3" : ["Rose lamute","#f8bcbf"],
-
-    "color4" : ["Rouge Lab","#ff6158"],
-    // "color5" : ["Bleu roger","#397395"],
-    // "color6" : ["Bleu lamute","#bae1fd"],
-
-    "color7" : ["Bleu Aide","#545fc7"],
-    // "color8" : ["Jaune roger","#f9e07d"],
-    // "colo19" : ["Jaune lamute","#f9edb0"],
-
-    // "color10" : ["Vert Jungle","#35945d"],
-    // "color11" : ["Vert roger","#63c48c"],
-    // "color12" : ["Vert lamute","#a2efbd"],
-
-    // "color13" : ["gris Jungle","#333333"],
-    // "color14" : ["gris roger","#404a56"],
-    // "color15" : ["gris lamute","#7f8894"],
-    // "color16" : ["gris lamute -50","#BFC3C9"],
-    // "color17" : ["gris janine","#f1f1f1"]
+    "color2" : ["Rouge Lab","#ff6158"],
+    "color3" : ["Bleu Aide","#545fc7"],
+    "color3" : ["Jaune Club","#ffc857"],
 };
 
 
@@ -52,6 +35,7 @@ var colorsPrint = {
     "color1" : ["Vert Destock print","Pantone 7479 C","#28d689"],
     "color2" : ["Rouge Lab print","Pantone 2726 C","#ff6158"],
     "color3" : ["Bleu Aide print","Pantone 178 C","#545fc7"],
+    "color3" : ["Jaune Club print","Pantone 135 C","#ffc857"],
 };
 
 

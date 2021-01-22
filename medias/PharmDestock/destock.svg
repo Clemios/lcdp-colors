@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="23px" viewBox="0 0 27 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Group 6 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="66.8110413%" y1="0%" x2="33.1889587%" y2="92.6060289%" id="linearGradient-1">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#28D488" stop-opacity="0" offset="42.7527797%"></stop>
+            <stop stop-color="#28D488" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="100%" cy="100%" fx="100%" fy="100%" r="200.790824%" gradientTransform="translate(1.000000,1.000000),scale(1.000000,0.574324),rotate(119.869799),translate(-1.000000,-1.000000)" id="radialGradient-2">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#28D488" stop-opacity="0" offset="42.7527797%"></stop>
+            <stop stop-color="#28D488" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="66.4924215%" y1="100%" x2="35.1799862%" y2="8.49139664%" id="linearGradient-3">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#28D488" stop-opacity="0" offset="42.7527797%"></stop>
+            <stop stop-color="#28D488" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="92.9818556%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#28D488" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#28D488" stop-opacity="0" offset="42.7527797%"></stop>
+            <stop stop-color="#28D488" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Atoms-/-Logos-/-Icon-/-Pharmstock" transform="translate(-3.000000, -5.000000)">
+            <g id="Group-6-Copy">
+                <path d="M17.2483407,4.92013082 L25.8571764,9.8904444 C26.3979574,10.2026645 26.7310923,10.779671 26.7310923,11.4041112 L26.7310923,21.3447384 C26.7310923,21.9691785 26.3979574,22.5461851 25.8571764,22.8584052 L17.2483407,27.8287187 C16.7075596,28.1409388 16.0412899,28.1409388 15.5005088,27.8287187 L6.89167319,22.8584052 C6.35089213,22.5461851 6.01775726,21.9691785 6.01775726,21.3447384 L6.01775726,11.4041112 C6.01775726,10.779671 6.35089213,10.2026645 6.89167319,9.8904444 L15.5005088,4.92013082 C16.0412899,4.60791073 16.7075596,4.60791073 17.2483407,4.92013082 Z" id="Polygon" stroke="#28D488" stroke-width="2" transform="translate(16.374425, 16.374425) rotate(-30.000000) translate(-16.374425, -16.374425) "></path>
+                <line x1="22.2158628" y1="6.20940265" x2="16.4204204" y2="16.4204204" id="Line-2" stroke="#28D488" stroke-width="2"></line>
+                <line x1="10.5559845" y1="26.5342104" x2="16.4204204" y2="16.4204204" id="Line-2" stroke="url(#linearGradient-1)" stroke-width="2"></line>
+                <line x1="22.2158628" y1="26.5342104" x2="16.4204204" y2="16.4204204" id="Line-2" stroke="#28D488" stroke-width="2"></line>
+                <line x1="10.5559845" y1="6.20940265" x2="16.4204204" y2="16.4204204" id="Line-2" stroke="url(#radialGradient-2)" stroke-width="1.75"></line>
+                <line x1="10.5559845" y1="6.20940265" x2="16.4204204" y2="16.4204204" id="Line-2" stroke="url(#linearGradient-3)" stroke-width="2"></line>
+                <line x1="28.0204923" y1="16.3744248" x2="16.4204204" y2="16.4204204" id="Line-2" stroke="url(#linearGradient-4)" stroke-width="2"></line>
+                <line x1="4.69154867" y1="16.425531" x2="16.4204204" y2="16.425531" id="Line-2" stroke="#28D488" stroke-width="2"></line>
+            </g>
+        </g>
+    </g>
+</svg>

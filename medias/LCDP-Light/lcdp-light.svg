@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="53px" viewBox="0 0 54 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>lcdp-logotype-violet</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms-/-Logos-/-LCDP-simple" stroke="#0029A9" stroke-width="2.5">
+            <g id="lcdp-logotype-violet">
+                <path d="M1.25,2 L1.25,50.8999718 C1.25,51.3141854 1.58578644,51.6499718 2,51.6499718 L52,51.6499718 C52.4142136,51.6499718 52.75,51.3141854 52.75,50.8999718 L52.75,2 C52.75,1.58578644 52.4142136,1.25 52,1.25 L2,1.25 C1.58578644,1.25 1.25,1.58578644 1.25,2 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="Group" transform="translate(6.144869, 12.171026)">
+                    <g id="Group-2" transform="translate(0.072622, 0.468918)">
+                        <g id="Group-3" transform="translate(0.000000, 0.360056)">
+                            <line x1="9.28250905" y1="0.5" x2="40.2825091" y2="0.5" id="Line"></line>
+                            <line x1="12.9835453" y1="19" x2="40.2825091" y2="19" id="Line-Copy"></line>
+                            <line x1="0.92737827" y1="10" x2="9.28250905" y2="10" id="Line-Copy"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -14,6 +14,8 @@ var colors = {
     "color2" : ["Rouge Lab","#ff6158"],
     "color3" : ["Bleu Aide","#545fc7"],
     "color4" : ["Jaune Club","#ffc857"],
+    "color5" : ["Bleu Cobalt","#1a2676"],
+    "color5" : ["Dark-2","#666666"],
 };
 
 
@@ -36,6 +38,8 @@ var colorsPrint = {
     "color2" : ["Rouge Lab print","Pantone 2726 C","#ff6158"],
     "color3" : ["Bleu Aide print","Pantone 178 C","#545fc7"],
     "color4" : ["Jaune Club print","Pantone 135 C","#ffc857"],
+    "color5" : ["Bleu Cobalt print","Pantone 2756 C","#1a2676"],
+    "color6" : ["Dark-2 print","Pantone 431 C","#666666"],
 };
 
 
